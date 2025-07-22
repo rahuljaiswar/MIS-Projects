@@ -1,4 +1,4 @@
-# MIS Projects (Excel-Based Dashboards)
+# MIS Projects (Excel-Based Projects)
 
 This repository contains three Excel-based MIS (Management Information System) projects showcasing data analysis, reporting, and dashboard creation skills. Each project demonstrates the use of advanced Excel formulas, Pivot Tables, charts, and automation techniques to provide actionable business insights.
 
