@@ -49,7 +49,7 @@ This repository contains three Excel-based MIS (Management Information System) p
 
 ## **How to Use**
 1. Clone or download the Excel files.
-2. Open in Microsoft Excel (2016 or later recommended).
+2. Open in Microsoft Excel.
 3. Navigate to the **Dashboard** sheets for interactive views.
 
 ---
